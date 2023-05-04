@@ -1,2 +1,2 @@
 # Bedrock-1PS
-One Player Sleep addon for Minecraft: Bedrock Edition
+One Player Sleep addon for Minecraft: Bedrock Edition with Death Counter
