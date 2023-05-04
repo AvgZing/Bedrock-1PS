@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Multiplayer compatible one-player sleep v2.1 by AvgZing, death counter addition by RavinMaddHatter.",
+        "name": "AvgZing 1-Player Sleep + Death Counter",
+        "uuid": "107c45e9-0e6a-465a-83a7-3203229ab805",
+        "version": [
+            2,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            10
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "851782bb-5b70-41cd-bb34-6e198304afd1",
+            "version": [
+                2,
+                1,
+                0
+            ]
+        }
+    ]
+}
